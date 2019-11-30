@@ -9,7 +9,7 @@ class MyFlutterApp extends StatelessWidget{
     // TODO: implement build
     return MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: "My Flutter App123",
+        title: "My Flutter App",
         home: Scaffold(
             appBar: AppBar(title: Text("Scaffold"),),
             body: FirstScreen()
